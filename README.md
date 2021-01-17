@@ -1,0 +1,1 @@
+This is a starter template for [Learn Next.js](https://nextjs.org/learn). This template has typescript and tailwind enabled.It is pretty barebones if you don't want to use tailwind you are free to uninstall it.
